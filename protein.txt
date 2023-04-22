@@ -1,0 +1,7 @@
+lysozyme
+protein
+oil
+carbohydrate
+fat
+sugar
+sodium/salt
